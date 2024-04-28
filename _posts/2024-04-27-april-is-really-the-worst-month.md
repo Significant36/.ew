@@ -12,7 +12,7 @@ It's worse than the pre-exam, AMC 10/12, peak football season, lots of homework 
 
 ### Rejection
 
-No, I did not ask a girl out. I applied to some programs for fun and... didn't get in any. It's the weirdest thing. Super weird. Disappointingly weird. Rejection evokes this mysterious wave of indescribable emotion... andddd I'm not sure what to do. I might go over each rejection in-depth in a future blog post but for now, I've realized a few things[^1]
+No, I did not ask a girl out. I applied to some programs for fun and... didn't get in any. It's the weirdest thing. Super weird. Disappointingly weird. Rejection evokes this mysterious wave of indescribable emotion... andddd I'm not sure what to do. I might go over each rejection in-depth in a future blog post but for now, I've realized a few things[^1].
 - **It's freeing**
 \
 and it feels good. It's quite literally freeing in that my family can *finally* plan our vacation back to the motherland and I'm guaranteed to see my extended family :). Also, a certain Mr. Taylor would be very happy to know I'm available to attend Mu Alpha Theta Nationals again (and hopefully beat Buchholz again). This way, I've made my teacher, my friends, and a little bit of myself happier. But the one question that haunts me is 

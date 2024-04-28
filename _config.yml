@@ -2,9 +2,8 @@ theme: minima
 title: Le vent se lève
 author: Eric Wang
 description: just playing around
-
-header_pages:
-  - about.md
-
 minima:
   skin: dark
+header_pages:
+  - about.md
+  - [home](significant.github.io)
