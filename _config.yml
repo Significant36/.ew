@@ -4,6 +4,3 @@ author: Eric Wang
 description: just playing around
 minima:
   skin: dark
-header_pages:
-  - about.md
-  - [home](significant.github.io)
