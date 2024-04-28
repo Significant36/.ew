@@ -11,7 +11,7 @@ _some side project i guess..._
 
 I'm Eric Wang, but that doesn't mean anything to you. Let me simplify things; I am a
 
-- Enthusiast of Algebra, Geometry, and Number Theory
+- Math Enthusiast
 - Movie connoisseur
 - Very amateur programmer and web developer
 - Waste of space sometimes
