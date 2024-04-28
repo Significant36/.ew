@@ -3,14 +3,14 @@ title: "april is the cruelest month"
 date: 2024-04-27
 ---
 
-## The Waste :and
+### The Waste Land
 
 T.S. Eliot is right
 > April *is* [indeed] the cruellest month...
 
 It's worse than the pre-exam, AMC 10/12, peak football season, lots of homework November and definitely worse than the AIME, camp application, first-unit-back test week in transition from January to February. Why? 
 
-## Rejection
+### Rejection
 
 No, I did not ask a girl out. I applied to some programs for fun and... didn't get in any. It's the weirdest thing. Super weird. Disappointingly weird. Rejection evokes this mysterious wave of indescribable emotion... andddd I'm not sure what to do. I might go over each rejection in-depth in a future blog post but for now, I've realized a few things[^1]
 - **It's freeing**
