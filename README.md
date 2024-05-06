@@ -14,7 +14,7 @@ I'm Eric Wang, but that doesn't mean anything to you. Let me simplify things; I 
 - Math Enthusiast
 - Movie connoisseur
 - Very amateur programmer and web developer
-- Waste of space sometimes
+- NBA player (totally)
 
 
 ## Contactez moi
