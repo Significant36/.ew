@@ -1,5 +1,5 @@
 --- 
-title: "another-end"
+title: "another end"
 date: 2024-05-07
 ---
 
