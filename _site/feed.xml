@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-06T22:44:41-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Le vent se lève</title><subtitle>just playing around</subtitle><author><name>Eric Wang</name></author><entry><title type="html">april is the cruelest month</title><link href="http://localhost:4000/2024/04/27/april-is-really-the-worst-month.html" rel="alternate" type="text/html" title="april is the cruelest month" /><published>2024-04-27T00:00:00-05:00</published><updated>2024-04-27T00:00:00-05:00</updated><id>http://localhost:4000/2024/04/27/april-is-really-the-worst-month</id><content type="html" xml:base="http://localhost:4000/2024/04/27/april-is-really-the-worst-month.html">&lt;h3 id=&quot;the-waste-land&quot;&gt;The Waste Land&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-17T21:03:56-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Le vent se lève</title><subtitle>just playing around</subtitle><author><name>Eric Wang</name></author><entry><title type="html">a new beginning</title><link href="http://localhost:4000/2024/05/17/a-new-beginning.html" rel="alternate" type="text/html" title="a new beginning" /><published>2024-05-17T00:00:00-05:00</published><updated>2024-05-17T00:00:00-05:00</updated><id>http://localhost:4000/2024/05/17/a-new-beginning</id><content type="html" xml:base="http://localhost:4000/2024/05/17/a-new-beginning.html">&lt;p&gt;So somestuff happened. A lot of lasts and beginnings. Let’s recap.&lt;/p&gt;
+
+&lt;h3 id=&quot;flute-recital&quot;&gt;Flute Recital&lt;/h3&gt;
+
+&lt;p&gt;For some context, I’ve played the flute since middle school. Although I was… half-decent at it, I never really found my “thing” for it ever since 8th grad ended. I quit band last year because the truth is, it was a waste of time. As of a week ago, I was first chair in my local Orchestra and an All-State qualifier but I left all that behind Saturday. For those who were wondering, I played &lt;a href=&quot;https://www.youtube.com/watch?v=CcEeeVoFVDQ&amp;amp;themeRefresh=1&quot;&gt;the theme from Schindler’s List&lt;/a&gt; (just someone’s cover) instead of a traditional piece. It’s just another thing I feel like I’m throwing away to be forgotten in hidden file cabinet in my brain. If I ever find a way to create time, I’ll play another piece.&lt;/p&gt;
+
+&lt;h3 id=&quot;ap-exams&quot;&gt;AP Exams&lt;/h3&gt;
+
+&lt;p&gt;So, they went well! Nothing too crazy happened apart from me messing up an integral on a free response and forgetting dynamic type vs declared type in Java. Early predictions make me look like a narcissist.&lt;/p&gt;
+
+&lt;h3 id=&quot;school&quot;&gt;School&lt;/h3&gt;
+
+&lt;p&gt;Technically, I have no more classes, only 1 more week of final exams. With regard to those, they should be pretty easy (I only have 4) and I probably won’t study. It’s weird knowing that I’m 3 months away from being an upperclassman and will be driving to school. Oh yeah! I’m gonna try to get my license soon and I also secured a parking spot for next year!&lt;/p&gt;
+
+&lt;h3 id=&quot;music&quot;&gt;Music&lt;/h3&gt;
+
+&lt;p&gt;I might include a &lt;em&gt;Music&lt;/em&gt; section in each entry from now on just to show what I’m listening to during that time.&lt;/p&gt;
+
+&lt;p&gt;Excellent solo, 8.75/10.&lt;/p&gt;
+&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/track/0eneujAc4PxkdjP25Gsue1?utm_source=generator&amp;amp;theme=0&quot; width=&quot;100%&quot; height=&quot;152&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Another installment in the Drake v. KDot beef, 7.7/10.&lt;/p&gt;
+&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/track/1wFFFzJ5EsKbBWZriAcubN?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;152&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Also, while I was studying for my French speaking exam, I discovered this little gem, 8.3/10. (maybe a bit stereotypical though)&lt;/p&gt;
+
+&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/track/5Cfz0DCrcFpISyvDHBWy9f?utm_source=generator&quot; width=&quot;100%&quot; height=&quot;152&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;movie&quot;&gt;Movie&lt;/h3&gt;
+
+&lt;p&gt;As you might know from my about page, I love watching movies. I might try to also include a &lt;em&gt;Movie&lt;/em&gt; section in each entry from now on, or I might figure out a way to make another section separate from my posts dedicated for them. Anywho, I watched a couple this week, but most notably,&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;American Beauty
+    &lt;ul&gt;
+      &lt;li&gt;Woah, loved this from an analytical watching perspective. Although the plot was maybe boring at times, the climax was well conducted and I have to say, Lester Burnham (Kevin Spacey) does an amazing job acting. Good Fellas also did not disappoint. 8.24/10&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;La Haine
+    &lt;ul&gt;
+      &lt;li&gt;So for my AP French summer work, I have to watch a french speaking movie and I decided to get that done fast. I chose La Haine, a 24hr snapshot of a group of friends in the slums of France, angry at the police for the hospitalization of their friend. I think the plot was dull at times but the periscope into French culture illuminated my curiosity. Accidental death at the end does make for a rather lazy ending though, much like the “it was all a dream” trope. Not bad though, 7.05/10.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Eric Wang</name></author><summary type="html">So somestuff happened. A lot of lasts and beginnings. Let’s recap.</summary></entry><entry><title type="html">another end</title><link href="http://localhost:4000/2024/05/07/another-end.html" rel="alternate" type="text/html" title="another end" /><published>2024-05-07T00:00:00-05:00</published><updated>2024-05-07T00:00:00-05:00</updated><id>http://localhost:4000/2024/05/07/another-end</id><content type="html" xml:base="http://localhost:4000/2024/05/07/another-end.html">&lt;p&gt;I’d like to preface this entry with &lt;del&gt;a word from our sponsor&lt;/del&gt; a quick thought on “living”. Once again, it’s May, the end of the school year, the beginning of summer adventures, and just another month in the limited time we have to “live”. It’s such a platitude but&lt;/p&gt;
+
+&lt;h3 id=&quot;time-really-does-move-fast&quot;&gt;Time really does move fast&lt;/h3&gt;
+
+&lt;p&gt;All of this year has gone by. The truth is, I feel like I wasted some of it (as always). With college admissions peering around the corner, I should probably start focusing.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;August - September&lt;/strong&gt;: Felt like a breeze, a simple extention of the year before, new friends, new bliss.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;October - December&lt;/strong&gt;: Suddenly commotion broke, school began ramping up, the math competition scene kicked into high gear, and of course, midterms.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;January - February&lt;/strong&gt;: Lots of Lincoln Douglas debate, some more competitions, a trip to France and Switzerland; calm before the storm.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;March - April&lt;/strong&gt;: I guess the previous post sums it up pretty well.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ap-exams&quot;&gt;AP Exams&lt;/h3&gt;
+
+&lt;p&gt;Today, May 7th, is my first exam: AP Statistics. Statistics has always came easy to me, and I hope I can walk away from the gym today with a 5. Here’s a list,&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;AP Stats&lt;/strong&gt;
+&lt;br /&gt;
+Today, May 7th, Confidence: 97%.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;AP CSA&lt;/strong&gt;
+&lt;br /&gt;
+Tomorrow, May 8th, Confidence: 94%. Self studied this one and I think OOP makes 10000% more sense to me now as a traditionally C++ programmer. College Board does love small, technical, (&lt;del&gt;abusive&lt;/del&gt;) multiple choice questions and easy free responses though.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;AP Calc AB&lt;/strong&gt;
+\ 
+My birthday, May 13th, Confidence: 99%. I mean it’s math it’s pretty obvious I like math. See you on the other end of the tunnel.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Eric Wang</name></author><summary type="html">I’d like to preface this entry with a word from our sponsor a quick thought on “living”. Once again, it’s May, the end of the school year, the beginning of summer adventures, and just another month in the limited time we have to “live”. It’s such a platitude but</summary></entry><entry><title type="html">april is the cruelest month</title><link href="http://localhost:4000/2024/04/27/april-is-really-the-worst-month.html" rel="alternate" type="text/html" title="april is the cruelest month" /><published>2024-04-27T00:00:00-05:00</published><updated>2024-04-27T00:00:00-05:00</updated><id>http://localhost:4000/2024/04/27/april-is-really-the-worst-month</id><content type="html" xml:base="http://localhost:4000/2024/04/27/april-is-really-the-worst-month.html">&lt;h3 id=&quot;the-waste-land&quot;&gt;The Waste Land&lt;/h3&gt;
 
 &lt;p&gt;T.S. Eliot is right&lt;/p&gt;
 &lt;blockquote&gt;
